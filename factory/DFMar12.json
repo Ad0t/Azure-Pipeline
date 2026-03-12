@@ -1,0 +1,9 @@
+{
+	"name": "DFMar12",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0289cdd3-152b-4e15-b8c9-b78d46b93bd3",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
